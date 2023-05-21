@@ -16,7 +16,7 @@ In the ASL app data flows in the following order. The user performs a hand sing 
 
 As the user performs new hand signs the new classified letters get saved to the end of the string variable. This feature enables the user to build a string of characters that can represent a word. If the user wants to delete the whole string of letters, he can simply press c which stands for clear, or delete only the last letter backspace is available by pressing b. In addition, the command indentation is available by pressing s. this allows for the possibility to build sentences.
 
-## Implementation
+## User Interface
 
 At launch the ASL app will display on the screen the commands available to the user. Scan and exit are position on the top corners, because they are the most basic commands. Scan is the first interaction the user will have with the app, it predicts what hand sign the user is performing and exit allows the user to close the app. The other commands such as backspace, space, and clear are displayed at the bottom left corner. They become useful once the user has output some letters.
 
