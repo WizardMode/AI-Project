@@ -10,7 +10,7 @@ With the help of the sign language translator that we have created, it is no lon
 
 ## Overview
 
-The system architecture for the American Sign Language app consists of the interaction between the user, the image classification model, and the output screen. Basically, the classification model requires a hand sign by the user. This hand sign will be captured by the webcam and feed the image to the train model. And the model will output the correct letter and Accuray for the hand sign. The output information will be displayed on the laptop.
+The system architecture for the American Sign Language app consists of the interaction between the user, the image classification model, and the output screen. Basically, the classification model requires a hand sign by the user. This hand sign will be captured by the webcam and feed the image to the train model. And the model will output the correct letter and Accuray for the hand sign. The output information will be displayed on the laptop's screen.
 
 In the ASL app data flows in the following order. The user performs a hand sing in front of the webcam. The hand sign is fed to the model, by entering the keyboard command scan. At this point, the model classifies the hand gesture to the corresponding letter and percentage accuracy. At this instance two things happened the output letter is saved in a variable char and the letter is display in the laptop's screen along with the percent accuracy.
 
