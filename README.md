@@ -20,6 +20,8 @@ As the user performs new hand signs the new classified letters get saved to the 
 
 At launch the ASL app will display on the screen the commands available to the user. Scan and exit are position on the top corners, because they are the most basic commands. Scan is the first interaction the user will have with the app, it predicts what hand sign the user is performing and exit allows the user to close the app. The other commands such as backspace, space, and clear are displayed at the bottom left corner. They become useful once the user has output some letters.
 
+![Screenshot](screenshot.png)
+
 ## Technologies and Techniques
 
 - TensorFlow
