@@ -30,14 +30,14 @@ At launch the ASL app will display on the screen the commands available to the u
 
 ## Contributors
 
-- Leoanrdo Ramirez
+- Leoanrdo Ramirez (User Interface Design)
 
-Implement a friendly user interface for the American Sign Language app. And user commands.
+  Implement a friendly user interface for the American Sign Language app. And user commands.
 
-- Ashish Katuri
+- Ashish Katuri (Data Acquisition and Preprocessing)
 
-Performed data Preprocessing and visualization. In addition to data augmentation to prevent overfitting.
+  Performed data Preprocessing and visualization. In addition to data augmentation to prevent overfitting.
 
-- Syed Ahmad
+- Syed Ahmad (Trained an Accurate Model)
 
-Trained a variety of machine learning algorithms on the dataset until a high accuracy was obtained.
+  Trained a variety of machine learning algorithms on the dataset until a high accuracy was obtained.
